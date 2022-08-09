@@ -1,0 +1,1 @@
+SELECT * FROM example_database.todo_list;
