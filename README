@@ -1,4 +1,1 @@
-$user = "simbakowo";
-$password = "password";
-$database = "example_database";
-$table = "todo_list";
+
